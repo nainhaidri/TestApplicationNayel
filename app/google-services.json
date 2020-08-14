@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "123936333066",
+    "firebase_url": "https://test-app-nayel.firebaseio.com",
+    "project_id": "test-app-nayel",
+    "storage_bucket": "test-app-nayel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123936333066:android:b0562d0146dd238bd0aef3",
+        "android_client_info": {
+          "package_name": "com.example.testapplicationnayel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123936333066-phkf3i5fjb1q5klc7a3a7fp7v4oekoqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJn84vcYGC37UFmui4noZkEqHN_iszF3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123936333066-phkf3i5fjb1q5klc7a3a7fp7v4oekoqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
